@@ -66,12 +66,15 @@ Aspiring to be a part of a company that is as much about people as it is tech, I
 
 ## <a name="pinned"> 📌 Pinned Repositories</a>
 
+[Checkout my website here!](https://tommannion.surge.sh/)
+
 <br>
 
 | Project                                                                                                                                                                                                                                                                                                 |                                                Tech stack                                                |                                                                                                                       Live link |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/TomMannion/ingredient-based-recipe-app/"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TomMannion&repo=ingredient-based-recipe-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> | <ul><li>Express</li><li>React</li><li>Bootstrap</li><li>Mongoose</li><li>Jest</li><li>Cypress </li></ul> | <a href="https://less-waste-more-taste.herokuapp.com/"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></a> |
-| <a href="https://github.com/GuillerminaLorenzo/acebook-monsters-inc"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TomMannion&repo=acebook-monsters-inc&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>        |        <ul><li>Express</li><li>Handlebars</li><li>Mongoose</li><li>Jest</li><li>Cypress</li></ul>        |  <a href="https://monsters-inc-acebook.herokuapp.com/"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></a> |
+| <a href="https://github.com/TomMannion/Coffee_app"><img align="center" style="margin:0.5rem" src="https://my-stats-vl2g.vercel.app/api/pin/?username=TomMannion&repo=Coffee_app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> | <ul><li>Express</li><li>React</li><li>Redux</li><li>Material-UI</li><li>Mongoose</li><li>Jest</li><li>Cypress </li></ul> | <a href=""><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></a> |
+| <a href="https://github.com/TomMannion/ingredient-based-recipe-app/"><img align="center" style="margin:0.5rem" src="https://my-stats-vl2g.vercel.app/api/pin/?username=TomMannion&repo=ingredient-based-recipe-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> | <ul><li>Express</li><li>React</li><li>Bootstrap</li><li>Mongoose</li><li>Jest</li><li>Cypress </li></ul> | <a href="https://less-waste-more-taste.herokuapp.com/"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></a> |
+| <a href="https://github.com/TomMannion/acebook-monsters-inc"><img align="center" style="margin:0.5rem" src="https://my-stats-vl2g.vercel.app/api/pin/?username=TomMannion&repo=acebook-monsters-inc&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>        |        <ul><li>Express</li><li>Handlebars</li><li>Mongoose</li><li>Jest</li><li>Cypress</li></ul>        |  <a href="https://monsters-inc-acebook.herokuapp.com/"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></a> |
 
 <br>
 
@@ -153,11 +156,12 @@ Barista / Events coordinator
 <br>
 
 <a class="pinned" href="https://github.com/TomMannion">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomMannion&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://my-stats-vl2g.vercel.app/api/top-langs/?username=TomMannion&theme=dark" />
 </a>
 
 <a class="pinned" href="https://github.com/TomMannion">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=TomMannion&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Toms GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://my-stats-vl2g.vercel.app/api?username=TomMannion&theme=dark&show_icons=true" alt="Toms GitHub Stats" />
 </a>
 
+<br>
 <br>
